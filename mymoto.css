@@ -5,7 +5,6 @@ body {
     width: 100%;
     padding: 0px;
     margin: 0px;
-    overflow-x: hidden;
 
 }
 
@@ -47,8 +46,8 @@ body {
 
 #xvs{
     float: right;
-    width: 500px;
-    padding-right: 150px;
+    width: 400px;
+    padding-right: 100px;
 }
 
 .title1 ul{
@@ -95,8 +94,9 @@ body {
     position: absolute;
     visibility: visible;
     color: whitesmoke;
-    left: 800px;
-    bottom: -100px;
+    padding-bottom: 50px;
+    left: 500px;
+    bottom: -400px;
     text-decoration: underline;
 }
 
@@ -136,8 +136,8 @@ body {
 
 #duke{
     position: absolute;
-    width: 800px;
-    height:630px;
-    bottom: -800px;
+    width: 500px;
+    height:300px;
+    bottom: -700px;
     right: 50px
 }
