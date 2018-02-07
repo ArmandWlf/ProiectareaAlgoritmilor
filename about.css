@@ -1,0 +1,60 @@
+body {
+    background-color: black;
+    font-family: sans-serif;
+    height: 100%;
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+
+}
+
+#menul {
+    float: left;
+    padding-left: 30px;
+}
+
+#menur {
+    float: right;
+    padding-right: 30px;
+}
+
+
+.nav {
+    position: relative;
+    top: -9px;
+    padding: 10px 0px 50px 0px;
+    background-color: black;
+    margin-bottom: 0px;
+      
+}
+
+.nav ul,li,a {
+    display: inline;
+    padding: 4px;
+    color: red;
+}
+
+.titlu {
+    color: whitesmoke;
+    text-align: center;
+}
+
+.important {
+    text-align: center;
+    color: red;
+}
+
+.parag{
+    color: whitesmoke;
+    padding: 50px;
+    font-size: 25px;
+}
+
+.parag2{
+    color: whitesmoke;
+    padding-top: 0px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    font-size: 25px;
+}
