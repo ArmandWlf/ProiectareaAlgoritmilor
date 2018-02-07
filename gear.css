@@ -1,0 +1,76 @@
+body {
+    background-color: black;
+    font-family: sans-serif;
+    height: 100%;
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+
+}
+
+#menul {
+    float: left;
+    padding-left: 30px;
+}
+
+#menur {
+    float: right;
+    padding-right: 30px;
+}
+
+
+.nav {
+    position: relative;
+    top: -9px;
+    padding: 10px 0px 50px 0px;
+    background-color: black;
+    margin-bottom: 0px;
+      
+}
+
+.nav ul,li,a {
+    display: inline;
+    padding: 4px;
+    color: red;
+}
+
+.titlu{
+    color: whitesmoke;
+    text-align: center;
+}
+
+.gear{
+    color:whitesmoke;
+}
+
+#intro{
+    text-align: center;
+    font-size: 25px;
+}
+
+.list{
+   position: absolute;
+    font-size: 20px;
+   left: 300px;
+   top: 250px;
+}
+
+#gear1{
+}
+
+#helmet{
+    color: whitesmoke;
+}
+
+#torso{
+    color:whitesmoke;
+}
+#gloves{
+    color: whitesmoke;
+}
+#vest{
+    color:whitesmoke;
+}
+#camera{
+    color: whitesmoke;
+}
